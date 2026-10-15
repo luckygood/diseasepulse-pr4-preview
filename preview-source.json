@@ -1,7 +1,7 @@
 {
-  "note": "Isolated noindex preview. UI from codex/bubopin-news-brand-phase1 (PR #4 + brand phase-1), data contract files from feat/content-pipeline (stroke disease added).",
+  "note": "Isolated noindex preview. UI from codex/bubopin-news-brand-phase1 (PR #4 + brand phase-1), data from feat/content-pipeline daily round 2026-10-15: 46 events (+3 CKD), 5 Horizon milestones, 51 sources, stroke disease.",
   "uiCommit": "0d7a2d4f47ee6eb2b39a74933eabdf7b86d51641",
-  "dataCommit": "c36103d",
+  "dataCommit": "09dcb6b",
   "builtAt": "2026-10-15",
   "indexing": "noindex, nofollow"
 }
