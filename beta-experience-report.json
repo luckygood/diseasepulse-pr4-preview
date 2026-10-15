@@ -1,0 +1,170 @@
+{
+  "schemaVersion": "1.0",
+  "asOf": "2026-10-15",
+  "bundles": {
+    "js": {
+      "bytes": 506628,
+      "gzipBytes": 157747
+    },
+    "css": {
+      "bytes": 73226,
+      "gzipBytes": 15599
+    },
+    "files": [
+      {
+        "file": "AboutPage-CovDEjy1.js",
+        "type": "js",
+        "bytes": 5486,
+        "gzipBytes": 2331
+      },
+      {
+        "file": "AssetTimelinePage-DACRF-tS.js",
+        "type": "js",
+        "bytes": 14939,
+        "gzipBytes": 4230
+      },
+      {
+        "file": "BrandUI-DpnGkppc.js",
+        "type": "js",
+        "bytes": 3719,
+        "gzipBytes": 1397
+      },
+      {
+        "file": "DemoDataNotice-DAgJUuUR.js",
+        "type": "js",
+        "bytes": 343,
+        "gzipBytes": 325
+      },
+      {
+        "file": "DiseasePage-B_EWwRy_.js",
+        "type": "js",
+        "bytes": 3954,
+        "gzipBytes": 1813
+      },
+      {
+        "file": "EventCard-DCOEFhGE.js",
+        "type": "js",
+        "bytes": 1189,
+        "gzipBytes": 637
+      },
+      {
+        "file": "EventDetailPage-5iqiqWIh.js",
+        "type": "js",
+        "bytes": 5886,
+        "gzipBytes": 2679
+      },
+      {
+        "file": "HomePage-DCQVrCR6.js",
+        "type": "js",
+        "bytes": 3362,
+        "gzipBytes": 1675
+      },
+      {
+        "file": "HorizonPage-CqCgpDkE.js",
+        "type": "js",
+        "bytes": 5239,
+        "gzipBytes": 2253
+      },
+      {
+        "file": "NotFoundPage-EOCLsewk.js",
+        "type": "js",
+        "bytes": 1416,
+        "gzipBytes": 850
+      },
+      {
+        "file": "SearchPage-C6wWIKq7.js",
+        "type": "js",
+        "bytes": 3700,
+        "gzipBytes": 1849
+      },
+      {
+        "file": "SectionCard-vvGpbJ6j.js",
+        "type": "js",
+        "bytes": 943,
+        "gzipBytes": 396
+      },
+      {
+        "file": "createLucideIcon-DhnhcOP5.js",
+        "type": "js",
+        "bytes": 1189,
+        "gzipBytes": 688
+      },
+      {
+        "file": "feed-Bc6FhVRr.js",
+        "type": "js",
+        "bytes": 1464,
+        "gzipBytes": 823
+      },
+      {
+        "file": "feedData-CDvx0cAp.js",
+        "type": "js",
+        "bytes": 103422,
+        "gzipBytes": 24656
+      },
+      {
+        "file": "format-DlZdpMHg.js",
+        "type": "js",
+        "bytes": 502,
+        "gzipBytes": 412
+      },
+      {
+        "file": "index-3A7kMznZ.js",
+        "type": "js",
+        "bytes": 345750,
+        "gzipBytes": 109126
+      },
+      {
+        "file": "index-CGRK4BiA.css",
+        "type": "css",
+        "bytes": 73226,
+        "gzipBytes": 15599
+      },
+      {
+        "file": "milestones-YHEXE-OA.js",
+        "type": "js",
+        "bytes": 4125,
+        "gzipBytes": 1607
+      }
+    ]
+  },
+  "criticalRouteData": {
+    "/": {
+      "events": 46,
+      "diseases": 5
+    },
+    "/horizon": {
+      "milestones": 5
+    },
+    "/assets/:assetId": {
+      "assets": 30,
+      "events": 46,
+      "milestones": 5
+    },
+    "/search": {
+      "events": 46,
+      "diseases": 5
+    }
+  },
+  "staticEntrypoints": {
+    "known": 84,
+    "policy": "Known routes receive index.html and HTTP 200; unknown routes use 404.html/404 status."
+  },
+  "measuredViewports": [
+    1440,
+    768,
+    390,
+    320
+  ],
+  "accessibilityChecks": {
+    "automatedIssues": [],
+    "checks": [
+      "WCAG AA text contrast",
+      "3:1 strong-boundary contrast",
+      "keyboard focus visibility",
+      "Enter activation",
+      "heading/link semantics",
+      "horizontal overflow"
+    ],
+    "limitation": "Targeted Playwright checks only; this is not a full manual WCAG conformance audit."
+  }
+}

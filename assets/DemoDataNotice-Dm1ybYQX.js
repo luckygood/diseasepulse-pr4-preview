@@ -1,1 +1,0 @@
-import{s as e}from"./index-CcewHMwn.js";var t=e();function n(){return(0,t.jsx)(`div`,{role:`note`,className:`bp-notice`,children:(0,t.jsxs)(`span`,{children:[(0,t.jsx)(`strong`,{children:`独立核验数据 · 预览版`}),` · `,`事件均连接原始来源并通过发布门禁；内容不构成医疗或投资建议。`]})})}export{n as t};
