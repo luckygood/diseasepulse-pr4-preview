@@ -1,0 +1,188 @@
+{
+  "schemaVersion": "1.0",
+  "asOf": "2026-10-15",
+  "bundles": {
+    "js": {
+      "bytes": 570100,
+      "gzipBytes": 177529
+    },
+    "css": {
+      "bytes": 88366,
+      "gzipBytes": 17975
+    },
+    "files": [
+      {
+        "file": "AboutPage-VPGJD9QM.js",
+        "type": "js",
+        "bytes": 16055,
+        "gzipBytes": 7138
+      },
+      {
+        "file": "AssetTimelinePage-BDiGqj26.js",
+        "type": "js",
+        "bytes": 6369,
+        "gzipBytes": 2355
+      },
+      {
+        "file": "BrandUI-DPO5HHqT.js",
+        "type": "js",
+        "bytes": 2885,
+        "gzipBytes": 1048
+      },
+      {
+        "file": "DemoDataNotice-DJKXsrX1.js",
+        "type": "js",
+        "bytes": 343,
+        "gzipBytes": 323
+      },
+      {
+        "file": "DiseasePage-B4bl1R-W.js",
+        "type": "js",
+        "bytes": 3961,
+        "gzipBytes": 1817
+      },
+      {
+        "file": "EventCard-CLeDV9YU.js",
+        "type": "js",
+        "bytes": 1815,
+        "gzipBytes": 943
+      },
+      {
+        "file": "EventDetailPage-VwkzWMoY.js",
+        "type": "js",
+        "bytes": 45956,
+        "gzipBytes": 12819
+      },
+      {
+        "file": "HomePage-vrBo65S8.js",
+        "type": "js",
+        "bytes": 3425,
+        "gzipBytes": 1711
+      },
+      {
+        "file": "HorizonPage-CJLuDK7A.js",
+        "type": "js",
+        "bytes": 5239,
+        "gzipBytes": 2254
+      },
+      {
+        "file": "NotFoundPage-_51PSB2I.js",
+        "type": "js",
+        "bytes": 1416,
+        "gzipBytes": 847
+      },
+      {
+        "file": "QualityPilotPage-DbFaDUMF.js",
+        "type": "js",
+        "bytes": 7108,
+        "gzipBytes": 2464
+      },
+      {
+        "file": "SearchPage-D9EPWzWH.js",
+        "type": "js",
+        "bytes": 3761,
+        "gzipBytes": 1879
+      },
+      {
+        "file": "SectionCard-C2F0uj2e.js",
+        "type": "js",
+        "bytes": 943,
+        "gzipBytes": 394
+      },
+      {
+        "file": "assets-qyIu6Iny.js",
+        "type": "js",
+        "bytes": 10214,
+        "gzipBytes": 2467
+      },
+      {
+        "file": "createLucideIcon-BvkuFOoJ.js",
+        "type": "js",
+        "bytes": 1189,
+        "gzipBytes": 688
+      },
+      {
+        "file": "feed-Cez4IYx7.js",
+        "type": "js",
+        "bytes": 3494,
+        "gzipBytes": 1601
+      },
+      {
+        "file": "feedData-CDvx0cAp.js",
+        "type": "js",
+        "bytes": 103422,
+        "gzipBytes": 24656
+      },
+      {
+        "file": "format-DlZdpMHg.js",
+        "type": "js",
+        "bytes": 502,
+        "gzipBytes": 412
+      },
+      {
+        "file": "index-DkmD5Om6.css",
+        "type": "css",
+        "bytes": 88366,
+        "gzipBytes": 17975
+      },
+      {
+        "file": "index-G-3GuENp.js",
+        "type": "js",
+        "bytes": 346623,
+        "gzipBytes": 109473
+      },
+      {
+        "file": "milestones-DR1ByXS6.js",
+        "type": "js",
+        "bytes": 4802,
+        "gzipBytes": 1860
+      },
+      {
+        "file": "notionCompanyPilot-CYrbiJYh.js",
+        "type": "js",
+        "bytes": 578,
+        "gzipBytes": 380
+      }
+    ]
+  },
+  "criticalRouteData": {
+    "/": {
+      "events": 46,
+      "diseases": 5
+    },
+    "/horizon": {
+      "milestones": 5
+    },
+    "/assets/:assetId": {
+      "assets": 30,
+      "events": 46,
+      "milestones": 5
+    },
+    "/search": {
+      "events": 46,
+      "diseases": 5
+    }
+  },
+  "staticEntrypoints": {
+    "known": 84,
+    "policy": "Known routes receive index.html and HTTP 200; unknown routes use 404.html/404 status."
+  },
+  "measuredViewports": [
+    1440,
+    768,
+    390,
+    320
+  ],
+  "accessibilityChecks": {
+    "automatedIssues": [],
+    "checks": [
+      "WCAG AA text contrast",
+      "3:1 strong-boundary contrast",
+      "keyboard focus visibility",
+      "Enter activation",
+      "heading/link semantics",
+      "horizontal overflow"
+    ],
+    "limitation": "Targeted Playwright checks only; this is not a full manual WCAG conformance audit."
+  }
+}

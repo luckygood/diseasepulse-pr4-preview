@@ -1,0 +1,226 @@
+{
+  "schemaVersion": "1.0",
+  "ruleVersion": "quality-pilot-v1.0",
+  "reviewedAt": "2026-10-17",
+  "reviewerType": "machine",
+  "disclaimer": "机器规则检查验证结构、一致性与结论边界，不等于逐句医学事实核验或真实用户理解测试。",
+  "status": "passed",
+  "goldenEvents": 12,
+  "enhanced": 12,
+  "safeFallback": 0,
+  "typeCounts": {
+    "clinical": 6,
+    "regulatory": 2,
+    "bd": 2,
+    "safety": 1,
+    "research": 1,
+    "capital": 0
+  },
+  "claimCount": 36,
+  "supportCounts": {
+    "passage_verified": 0,
+    "source_level": 36,
+    "insufficient": 0,
+    "conflicted": 0
+  },
+  "fatalDefects": [],
+  "errors": [],
+  "regression": {
+    "total": 46,
+    "passed": 46
+  },
+  "events": [
+    {
+      "eventId": "evt-vensobafusp-alfa-igan-clinical-20261015",
+      "goldenId": "G01",
+      "status": "enhanced_source_level",
+      "scores": {
+        "factualAccuracy": 25,
+        "coreCompleteness": 15,
+        "factInterpretationBoundary": 15,
+        "evidenceTraceability": 13,
+        "nextMilestoneAccuracy": 10,
+        "readingClarity": 9,
+        "conciseness": 8
+      },
+      "issue": "GlobeNewswire 命令行访问受限；没有可靠段落定位。",
+      "total": 95
+    },
+    {
+      "eventId": "evt-vk2735-sunrise-1-clinical-20261009",
+      "goldenId": "G02",
+      "status": "enhanced_source_level",
+      "scores": {
+        "factualAccuracy": 25,
+        "coreCompleteness": 14,
+        "factInterpretationBoundary": 15,
+        "evidenceTraceability": 14,
+        "nextMilestoneAccuracy": 10,
+        "readingClarity": 8,
+        "conciseness": 7
+      },
+      "issue": "登记记录仅证明研究方案与状态，不支持生成结果或数据披露日期。",
+      "total": 93
+    },
+    {
+      "eventId": "evt-ziltivekimab-zeus-clinical-20260731",
+      "goldenId": "G03",
+      "status": "enhanced_source_level",
+      "scores": {
+        "factualAccuracy": 25,
+        "coreCompleteness": 15,
+        "factInterpretationBoundary": 15,
+        "evidenceTraceability": 13,
+        "nextMilestoneAccuracy": 10,
+        "readingClarity": 9,
+        "conciseness": 8
+      },
+      "issue": "企业顶线公告访问受限，完整数据尚未逐项核验。",
+      "total": 95
+    },
+    {
+      "eventId": "evt-ravulizumab-i-can-clinical-20260606",
+      "goldenId": "G04",
+      "status": "enhanced_source_level",
+      "scores": {
+        "factualAccuracy": 24,
+        "coreCompleteness": 14,
+        "factInterpretationBoundary": 15,
+        "evidenceTraceability": 12,
+        "nextMilestoneAccuracy": 10,
+        "readingClarity": 9,
+        "conciseness": 8
+      },
+      "issue": "原始页面访问受限；长期 eGFR 终点不在本次披露范围。",
+      "total": 92
+    },
+    {
+      "eventId": "evt-atrasentan-align-clinical-20260604",
+      "goldenId": "G05",
+      "status": "enhanced_source_level",
+      "scores": {
+        "factualAccuracy": 25,
+        "coreCompleteness": 15,
+        "factInterpretationBoundary": 15,
+        "evidenceTraceability": 13,
+        "nextMilestoneAccuracy": 10,
+        "readingClarity": 9,
+        "conciseness": 8
+      },
+      "issue": "支持性分析必须与主要终点未达传统阈值同时呈现。",
+      "total": 95
+    },
+    {
+      "eventId": "evt-retatrutide-triumph-1-clinical-20260521",
+      "goldenId": "G06",
+      "status": "enhanced_source_level",
+      "scores": {
+        "factualAccuracy": 24,
+        "coreCompleteness": 14,
+        "factInterpretationBoundary": 15,
+        "evidenceTraceability": 12,
+        "nextMilestoneAccuracy": 10,
+        "readingClarity": 9,
+        "conciseness": 7
+      },
+      "issue": "企业顶线公告；安慰剂与完整安全性数据未在现有摘录中逐项核验。",
+      "total": 91
+    },
+    {
+      "eventId": "evt-atacicept-origin-3-regulatory-20260707",
+      "goldenId": "G07",
+      "status": "enhanced_source_level",
+      "scores": {
+        "factualAccuracy": 25,
+        "coreCompleteness": 15,
+        "factInterpretationBoundary": 15,
+        "evidenceTraceability": 14,
+        "nextMilestoneAccuracy": 10,
+        "readingClarity": 8,
+        "conciseness": 7
+      },
+      "issue": "FDA 原始记录为来源级映射，尚无审评文件段落定位。",
+      "total": 94
+    },
+    {
+      "eventId": "evt-finerenone-ckd-regulatory-20260521",
+      "goldenId": "G08",
+      "status": "enhanced_source_level",
+      "scores": {
+        "factualAccuracy": 24,
+        "coreCompleteness": 14,
+        "factInterpretationBoundary": 15,
+        "evidenceTraceability": 11,
+        "nextMilestoneAccuracy": 10,
+        "readingClarity": 8,
+        "conciseness": 7
+      },
+      "issue": "FDA 受理函原件未核对；保留来源级支持与不等于批准的边界。",
+      "total": 89
+    },
+    {
+      "eventId": "evt-dmx200-action3-bd-20260616",
+      "goldenId": "G09",
+      "status": "enhanced_source_level",
+      "scores": {
+        "factualAccuracy": 25,
+        "coreCompleteness": 15,
+        "factInterpretationBoundary": 15,
+        "evidenceTraceability": 13,
+        "nextMilestoneAccuracy": 10,
+        "readingClarity": 8,
+        "conciseness": 7
+      },
+      "issue": "公告未在当前记录中证明实际交割；潜在总额不能当作已支付。",
+      "total": 93
+    },
+    {
+      "eventId": "evt-felzartamab-igan-bd-20260420",
+      "goldenId": "G10",
+      "status": "enhanced_source_level",
+      "scores": {
+        "factualAccuracy": 24,
+        "coreCompleteness": 14,
+        "factInterpretationBoundary": 15,
+        "evidenceTraceability": 11,
+        "nextMilestoneAccuracy": 10,
+        "readingClarity": 8,
+        "conciseness": 7
+      },
+      "issue": "原始来源访问受限；未披露的完成条件、时间和经济收益不作推断。",
+      "total": 89
+    },
+    {
+      "eventId": "evt-sevuparin-ckd-safety-20261014",
+      "goldenId": "G11",
+      "status": "enhanced_source_level",
+      "scores": {
+        "factualAccuracy": 25,
+        "coreCompleteness": 15,
+        "factInterpretationBoundary": 15,
+        "evidenceTraceability": 13,
+        "nextMilestoneAccuracy": 10,
+        "readingClarity": 9,
+        "conciseness": 8
+      },
+      "issue": "因果评估与恢复入组状态仍待后续更新。",
+      "total": 95
+    },
+    {
+      "eventId": "evt-ap306-nct06712654-research-20261015",
+      "goldenId": "G12",
+      "status": "enhanced_source_level",
+      "scores": {
+        "factualAccuracy": 25,
+        "coreCompleteness": 14,
+        "factInterpretationBoundary": 15,
+        "evidenceTraceability": 12,
+        "nextMilestoneAccuracy": 10,
+        "readingClarity": 8,
+        "conciseness": 7
+      },
+      "issue": "会议展示在审核日尚未发生；不得写成已发表或已有结果。",
+      "total": 91
+    }
+  ]
+}
