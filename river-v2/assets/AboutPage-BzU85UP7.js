@@ -1,4 +1,4 @@
-import{o as e,s as t}from"./index-BnVNoRkQ.js";import{r as n,t as r}from"./SectionCard-M4gRMlvJ.js";import{t as i}from"./DemoDataNotice-CKGenyUf.js";import{i as a,n as o}from"./feedData-CDvx0cAp.js";var s=`# BuboPin News R4 Beta 试运行 — 2026-10-16
+import{o as e,s as t}from"./index-D6OCrwFJ.js";import{r as n,t as r}from"./SectionCard-DT6YOdHy.js";import{t as i}from"./DemoDataNotice-CaF34jtz.js";import{i as a,n as o}from"./feedData-CDvx0cAp.js";var s=`# BuboPin News R4 Beta 试运行 — 2026-10-16
 
 ## 执行元数据
 
