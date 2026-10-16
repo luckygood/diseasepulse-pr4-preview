@@ -1,0 +1,182 @@
+{
+  "schemaVersion": "1.0",
+  "asOf": "2026-10-15",
+  "bundles": {
+    "js": {
+      "bytes": 535064,
+      "gzipBytes": 168432
+    },
+    "css": {
+      "bytes": 84455,
+      "gzipBytes": 17428
+    },
+    "files": [
+      {
+        "file": "AboutPage-m4Jk_qy0.js",
+        "type": "js",
+        "bytes": 16055,
+        "gzipBytes": 7139
+      },
+      {
+        "file": "AssetTimelinePage-BVEl95cL.js",
+        "type": "js",
+        "bytes": 6369,
+        "gzipBytes": 2355
+      },
+      {
+        "file": "BrandUI-BqTReX9s.js",
+        "type": "js",
+        "bytes": 2885,
+        "gzipBytes": 1049
+      },
+      {
+        "file": "DemoDataNotice-Cjcv88hM.js",
+        "type": "js",
+        "bytes": 343,
+        "gzipBytes": 324
+      },
+      {
+        "file": "DiseasePage-MUerpj0w.js",
+        "type": "js",
+        "bytes": 3961,
+        "gzipBytes": 1814
+      },
+      {
+        "file": "EventCard-AumRIaPU.js",
+        "type": "js",
+        "bytes": 1815,
+        "gzipBytes": 943
+      },
+      {
+        "file": "EventDetailPage-iZAP4Xem.js",
+        "type": "js",
+        "bytes": 18854,
+        "gzipBytes": 6501
+      },
+      {
+        "file": "HomePage-JErSM0Oo.js",
+        "type": "js",
+        "bytes": 3425,
+        "gzipBytes": 1704
+      },
+      {
+        "file": "HorizonPage-CCqB86mO.js",
+        "type": "js",
+        "bytes": 5239,
+        "gzipBytes": 2252
+      },
+      {
+        "file": "NotFoundPage--XMQvgcC.js",
+        "type": "js",
+        "bytes": 1416,
+        "gzipBytes": 849
+      },
+      {
+        "file": "SearchPage-zUhKm1JE.js",
+        "type": "js",
+        "bytes": 3761,
+        "gzipBytes": 1876
+      },
+      {
+        "file": "SectionCard-BlJPkcYv.js",
+        "type": "js",
+        "bytes": 943,
+        "gzipBytes": 395
+      },
+      {
+        "file": "assets-qyIu6Iny.js",
+        "type": "js",
+        "bytes": 10214,
+        "gzipBytes": 2467
+      },
+      {
+        "file": "createLucideIcon-6my-VHip.js",
+        "type": "js",
+        "bytes": 1189,
+        "gzipBytes": 687
+      },
+      {
+        "file": "feed-DlK6q_Ck.js",
+        "type": "js",
+        "bytes": 3494,
+        "gzipBytes": 1599
+      },
+      {
+        "file": "feedData-CDvx0cAp.js",
+        "type": "js",
+        "bytes": 103422,
+        "gzipBytes": 24656
+      },
+      {
+        "file": "format-DlZdpMHg.js",
+        "type": "js",
+        "bytes": 502,
+        "gzipBytes": 412
+      },
+      {
+        "file": "index-BR1mq3Sp.js",
+        "type": "js",
+        "bytes": 346474,
+        "gzipBytes": 109423
+      },
+      {
+        "file": "index-NrKaf9hD.css",
+        "type": "css",
+        "bytes": 84455,
+        "gzipBytes": 17428
+      },
+      {
+        "file": "milestones-YHEXE-OA.js",
+        "type": "js",
+        "bytes": 4125,
+        "gzipBytes": 1607
+      },
+      {
+        "file": "notionCompanyPilot-CYrbiJYh.js",
+        "type": "js",
+        "bytes": 578,
+        "gzipBytes": 380
+      }
+    ]
+  },
+  "criticalRouteData": {
+    "/": {
+      "events": 46,
+      "diseases": 5
+    },
+    "/horizon": {
+      "milestones": 5
+    },
+    "/assets/:assetId": {
+      "assets": 30,
+      "events": 46,
+      "milestones": 5
+    },
+    "/search": {
+      "events": 46,
+      "diseases": 5
+    }
+  },
+  "staticEntrypoints": {
+    "known": 84,
+    "policy": "Known routes receive index.html and HTTP 200; unknown routes use 404.html/404 status."
+  },
+  "measuredViewports": [
+    1440,
+    768,
+    390,
+    320
+  ],
+  "accessibilityChecks": {
+    "automatedIssues": [],
+    "checks": [
+      "WCAG AA text contrast",
+      "3:1 strong-boundary contrast",
+      "keyboard focus visibility",
+      "Enter activation",
+      "heading/link semantics",
+      "horizontal overflow"
+    ],
+    "limitation": "Targeted Playwright checks only; this is not a full manual WCAG conformance audit."
+  }
+}

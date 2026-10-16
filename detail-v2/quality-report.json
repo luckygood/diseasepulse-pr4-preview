@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "1.0",
+  "asOf": "2026-10-15",
+  "generatedAt": "2026-10-15",
+  "counts": {
+    "candidate": 78,
+    "verified": 43,
+    "published": 46,
+    "rejected": 4,
+    "duplicate": 0,
+    "pending": 31
+  },
+  "candidateStatusCounts": {
+    "approved": 14,
+    "rejected": 4,
+    "already-published": 29,
+    "pending": 31
+  },
+  "rejectedArchiveCount": 2,
+  "sourceTraceability": {
+    "events": {
+      "traced": 46,
+      "total": 46
+    },
+    "milestones": {
+      "traced": 5,
+      "total": 5
+    }
+  },
+  "milestoneValidation": {
+    "valid": true,
+    "published": 5,
+    "note": "Structural/date/revision foreign-key rules are enforced by milestones:validate."
+  },
+  "contentLatencyDays": {
+    "measurable": true,
+    "p50": 128,
+    "p90": 169,
+    "max": 196,
+    "basis": "verifiedAt minus firstDisclosedAt, UTC calendar days",
+    "populationNote": "This population includes historical backfill and is not a measure of day-to-day Beta publishing performance."
+  },
+  "operationalPublicationLatencyDays": {
+    "measurable": false,
+    "p50": null,
+    "p90": null,
+    "max": null,
+    "basis": null,
+    "reason": "firstPublishedAt is not captured, so operational publication latency cannot be measured without inventing a timestamp."
+  },
+  "accuracy": {
+    "value": null,
+    "reason": "No independent adjudicated sample is available; a numeric accuracy claim would be fabricated."
+  }
+}
