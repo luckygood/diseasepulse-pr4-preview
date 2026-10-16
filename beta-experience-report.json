@@ -3,97 +3,97 @@
   "asOf": "2026-10-15",
   "bundles": {
     "js": {
-      "bytes": 507262,
-      "gzipBytes": 157994
+      "bytes": 517831,
+      "gzipBytes": 162786
     },
     "css": {
-      "bytes": 73350,
-      "gzipBytes": 15624
+      "bytes": 73388,
+      "gzipBytes": 15640
     },
     "files": [
       {
-        "file": "AboutPage-B0I3G2Gp.js",
+        "file": "AboutPage-Dibzq5tv.js",
         "type": "js",
-        "bytes": 5486,
-        "gzipBytes": 2331
+        "bytes": 16055,
+        "gzipBytes": 7134
       },
       {
-        "file": "AssetTimelinePage-DDjivOha.js",
+        "file": "AssetTimelinePage-CS7H9yJP.js",
         "type": "js",
         "bytes": 14939,
-        "gzipBytes": 4230
+        "gzipBytes": 4231
       },
       {
-        "file": "BrandUI-DYXBZXNZ.js",
+        "file": "BrandUI-C7zPTKhJ.js",
         "type": "js",
         "bytes": 3719,
-        "gzipBytes": 1396
+        "gzipBytes": 1395
       },
       {
-        "file": "DemoDataNotice-C9ZnfJQS.js",
+        "file": "DemoDataNotice-Ddlf8-fF.js",
         "type": "js",
         "bytes": 343,
         "gzipBytes": 325
       },
       {
-        "file": "DiseasePage-Cl5kN93x.js",
+        "file": "DiseasePage-Cw5Dy2Ow.js",
         "type": "js",
         "bytes": 3954,
-        "gzipBytes": 1815
+        "gzipBytes": 1813
       },
       {
-        "file": "EventCard-TA0ORsQd.js",
+        "file": "EventCard-kQxP6n8m.js",
         "type": "js",
         "bytes": 1189,
         "gzipBytes": 636
       },
       {
-        "file": "EventDetailPage-Ds21TjBD.js",
+        "file": "EventDetailPage-CkjgUW41.js",
         "type": "js",
         "bytes": 5886,
-        "gzipBytes": 2680
+        "gzipBytes": 2678
       },
       {
-        "file": "HomePage-DQ3lzo4F.js",
+        "file": "HomePage-DPMLI2Vl.js",
         "type": "js",
         "bytes": 3362,
         "gzipBytes": 1678
       },
       {
-        "file": "HorizonPage-B1Xh1N4q.js",
+        "file": "HorizonPage-BIwFvCIA.js",
         "type": "js",
         "bytes": 5239,
         "gzipBytes": 2254
       },
       {
-        "file": "NotFoundPage-Mguku34I.js",
+        "file": "NotFoundPage-XJCRcBuA.js",
         "type": "js",
         "bytes": 1416,
-        "gzipBytes": 851
+        "gzipBytes": 850
       },
       {
-        "file": "SearchPage-XByF_5CQ.js",
+        "file": "SearchPage-CkYq-OdJ.js",
         "type": "js",
         "bytes": 3700,
-        "gzipBytes": 1851
+        "gzipBytes": 1849
       },
       {
-        "file": "SectionCard-C49rDRIT.js",
+        "file": "SectionCard-Cf9u3-ee.js",
         "type": "js",
         "bytes": 943,
         "gzipBytes": 397
       },
       {
-        "file": "createLucideIcon-CoHxTvwx.js",
+        "file": "createLucideIcon-BR_FlzOI.js",
         "type": "js",
         "bytes": 1189,
         "gzipBytes": 688
       },
       {
-        "file": "feed-BPjhCcN9.js",
+        "file": "feed-DQxp3mzy.js",
         "type": "js",
         "bytes": 1464,
-        "gzipBytes": 820
+        "gzipBytes": 819
       },
       {
         "file": "feedData-CDvx0cAp.js",
@@ -108,16 +108,16 @@
         "gzipBytes": 412
       },
       {
-        "file": "index-BAsKa6NI.css",
+        "file": "index-CclhPGxD.css",
         "type": "css",
-        "bytes": 73350,
-        "gzipBytes": 15624
+        "bytes": 73388,
+        "gzipBytes": 15640
       },
       {
-        "file": "index-vRJEY2kl.js",
+        "file": "index-CuyAt4H1.js",
         "type": "js",
         "bytes": 346384,
-        "gzipBytes": 109367
+        "gzipBytes": 109364
       },
       {
         "file": "milestones-YHEXE-OA.js",
