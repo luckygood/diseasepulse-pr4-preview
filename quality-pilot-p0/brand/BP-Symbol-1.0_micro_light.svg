@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="11 9 110 110">
+  <title>BuboPin Micro Mark (16–24px), light background</title>
+  <!-- Micro variant per reference board: wider inner space, slightly shorter spine. -->
+  <g fill="#171717">
+    <path d="M50 28 H34 A15 15 0 0 0 34 58 H50 Z"/>
+    <path d="M50 66 H33 A16 16 0 0 0 33 98 H50 Z"/>
+    <rect x="60" y="28" width="12" height="72" rx="6"/>
+    <path d="M82 28 H97 A19 22 0 0 1 97 72 H82 Z"/>
+    <rect x="82" y="70" width="10" height="26" rx="5"/>
+  </g>
+</svg>
