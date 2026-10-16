@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <title>BuboPin Brand Mark v1.0 (BP-Symbol-1.0), light background</title>
+  <!-- BP monogram: shared central spine, non-mirrored upper/lower left modules,
+       converging P outer arc. Hand-constructed vector per SSOT v1.0.0 §F01/F03.
+       Charcoal Black on light surfaces. -->
+  <g fill="#171717">
+    <path d="M52 28 H34 A15 15 0 0 0 34 58 H52 Z"/>
+    <path d="M52 66 H33 A16 16 0 0 0 33 98 H52 Z"/>
+    <rect x="60" y="24" width="12" height="80" rx="6"/>
+    <path d="M80 28 H96 A20 22 0 0 1 96 72 H80 Z"/>
+    <rect x="80" y="70" width="10" height="28" rx="5"/>
+  </g>
+</svg>
